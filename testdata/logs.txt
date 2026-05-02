@@ -1,0 +1,4 @@
+2026-05-02 INFO started
+2026-05-02 WARN slow request
+2026-05-02 ERROR failed
+2026-05-02 INFO stopped
